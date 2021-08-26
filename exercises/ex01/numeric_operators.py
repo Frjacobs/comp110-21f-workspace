@@ -1,4 +1,4 @@
-"""The numeric operators program is designed to allow the user to input two numbers and then outputs 4 numeric expressions from the user input"""
+"""The numeric operators program is designed to allow the user to input two numbers and then outputs 4 numeric expressions from the user input."""
 
 __author__ = "730016032"
 
