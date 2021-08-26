@@ -1,4 +1,4 @@
-"""The relational operator program allow the user to input two integers and demonstrates four relational operators based on the input"""
+"""The relational operator program allows the user to input two integers and demonstrates four relational operators based on the input"""
 
 __author__ = "730016032"
 
